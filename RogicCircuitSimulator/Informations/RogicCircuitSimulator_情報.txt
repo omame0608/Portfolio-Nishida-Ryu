@@ -1,0 +1,8 @@
+RogicCircuitSimulator
+
+論理回路シミュレータです。
+ゲームではありませんが、UniRxについて勉強する目的で作成しました。
+下記URLの動画にもあるように、SRラッチや3桁の加算器等も正常に動作します。
+
+ビルドファイル：https://drive.google.com/file/d/1WGczTpgJrksnIiNh_mN43ie7XBfSIjx3/view?usp=sharing
+動画：https://drive.google.com/file/d/11TLGVtpFiZjB6YKL9XL9JvQV86N6OQki/view?usp=sharing
