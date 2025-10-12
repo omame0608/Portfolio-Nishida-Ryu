@@ -1,0 +1,9 @@
+RiG LEAGUE
+
+大学で所属しているゲーム制作団体「RiG++」の2025年度新入生歓迎会用ゲームです。
+Nintendo SwitchのJoy-Conを利用した最大8人プレイのローカルマルチゲームであり、制作は同団体に所属する計7名で行いました。
+私が担当したコードは基本的に「Scripts」の「0_Nishichan」フォルダ内に配置されています。その他いくつか私が作成したインターフェースが他のフォルダに配置されていますが、いずれもクラスのsummaryにauthorとして「西田琉」と記載しています。
+
+ビルドファイル：https://drive.google.com/file/d/1qsfaHeC7fItztH1JjyUslg68piWMgnAn/view?usp=sharing
+動画：https://drive.google.com/file/d/1bY3ryo02aUlS4Hp01dzEOC-MuVmC3yWE/view?usp=sharing
+説明資料：https://drive.google.com/file/d/1sTdU_eXv39X24J0TtKInMk1Owicuiy01/view?usp=sharing
