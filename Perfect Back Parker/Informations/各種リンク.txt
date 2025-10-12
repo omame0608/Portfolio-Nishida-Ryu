@@ -1,5 +1,9 @@
 Perfect Back Parker
 
+個人で制作したゲームです。
+株式会社コナミデジタルエンタテインメント主催「Indie Games Contest 学生選手権 2025」でベスト12に選出され、東京ゲームショウ2025に展示されました。
+これまでの私の制作物の中で最も力を発揮できた自信作です。
+
 ビルドファイル：https://drive.google.com/file/d/1Hsii8LzFRRaHPl5vJOSWr48FJloTUnw_/view?usp=sharing
 動画：https://drive.google.com/file/d/1njk5NU3fnS4TLzUodyPbAxFMnli_YD4r/view?usp=sharing
 説明資料：https://drive.google.com/file/d/1FfzQA85edajTgHUq1rv-Cn5wD4GqLnU6/view?usp=sharing
