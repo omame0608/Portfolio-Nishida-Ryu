@@ -1,0 +1,8 @@
+CashlessSimulator
+
+4人で制作したVR用買い物シミュレータゲームです。
+買い物ゲームをうたいつつも物理演算等の無駄な動きも全て実装した結果、実際に遊んだユーザのほとんどが真面目に買い物をしませんでした。
+プログラマは2人で、私の担当したコードは「Scripts」の「0_Nishida」フォルダ内に配置されています。
+
+動画①(通常プレイ)：https://drive.google.com/file/d/1FHcR8a3y3CJKHTRzwMWO8PhbSkxvKRQq/view?usp=sharing
+動画②(遊びプレイ)：https://drive.google.com/file/d/19gOsQTQLVTfTI6FZhp2SpWdiBrcp2VMV/view?usp=sharing
