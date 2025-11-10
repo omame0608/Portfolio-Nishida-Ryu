@@ -4,6 +4,6 @@ Perfect Back Parker
 株式会社コナミデジタルエンタテインメント主催「Indie Games Contest 学生選手権 2025」でベスト12に選出された過去作「Perfect Back Parker」の進化版です！
 制作者目線でも前作からさらにパワーアップし、これまでの私の制作物の中で最も力を発揮できた自信作です。
 
-ビルドファイル：https://drive.google.com/drive/folders/1Fs2ZzSVnTVIZD-YKcP5Vno_32t0Pd3vH?dmr=1&ec=wgc-drive-globalnav-goto
+ビルドファイル：https://drive.google.com/file/d/1sqAkd3XKBf4Xn5e9TKVxk6PTlMT_uWWY/view?usp=sharing
 動画：https://drive.google.com/drive/folders/1Fs2ZzSVnTVIZD-YKcP5Vno_32t0Pd3vH?dmr=1&ec=wgc-drive-globalnav-goto
 UniryRoom：https://unityroom.com/games/perfect_back_parker_rev
