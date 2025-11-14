@@ -5,5 +5,6 @@ Perfect Back Parker
 制作者目線でも前作からさらにパワーアップし、これまでの私の制作物の中で最も力を発揮できた自信作です。
 
 ビルドファイル：https://drive.google.com/file/d/1sqAkd3XKBf4Xn5e9TKVxk6PTlMT_uWWY/view?usp=sharing
-動画：https://drive.google.com/drive/folders/1Fs2ZzSVnTVIZD-YKcP5Vno_32t0Pd3vH?dmr=1&ec=wgc-drive-globalnav-goto
+動画：https://drive.google.com/file/d/1bzhXC73ePTX70YMQ-MA4_bnvif09Dpav/view?usp=sharing
+資料：https://drive.google.com/file/d/13_DSeQsQ-on9Po8azmwrzcsnIxzDWyAd/view?usp=sharing
 UniryRoom：https://unityroom.com/games/perfect_back_parker_rev
