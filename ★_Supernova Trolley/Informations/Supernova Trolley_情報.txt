@@ -1,0 +1,7 @@
+Supernova Trolley
+
+2025/11/23(日)開催の立命館大学OICキャンパス学園祭にて、所属するゲーム制作団体RiG++のブースにて展示することを目的として制作したVRシューティングゲームです。
+当日は計653名の方にご来場いただき、多くの方に「初めてVRを使う機会」を提供できました。
+
+ビルドファイル：https://drive.google.com/file/d/1uPyby34D6dtnV0P1VlaQf_r4nGMlVPKg/view?usp=sharing
+動画：https://drive.google.com/file/d/1yRl8DnWc3sli-9xUnDssUAaPJioI6N3M/view?usp=sharing
